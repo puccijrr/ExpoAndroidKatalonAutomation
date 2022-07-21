@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checks &quot;Edit Your Profile&quot; page has all the expected data for Admin1</description>
+   <name>Edit Your Profile Admin Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e53c4f23-efbb-445d-8bed-13c15f11b2c6</testCaseGuid>
+</TestCaseEntity>

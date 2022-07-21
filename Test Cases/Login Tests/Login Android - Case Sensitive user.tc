@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Full login test ensuring username does NOT have to be case sensitive.  Ensure app enters homepage after short delay</description>
+   <name>Login Android - Case Sensitive user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc8b7190-b20b-4192-bbc0-7aac81318b2a</testCaseGuid>
+</TestCaseEntity>

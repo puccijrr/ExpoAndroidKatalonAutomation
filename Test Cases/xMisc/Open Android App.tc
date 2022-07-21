@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To start the android app</description>
+   <name>Open Android App</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1b4ebdd1-4fa8-4dd5-9286-ebfbefbdfdd4</testCaseGuid>
+</TestCaseEntity>

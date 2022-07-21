@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Confirms Event Sessions button works and goes to the correct page</description>
+   <name>Event Sessions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>773257ac-6fd1-416c-afc3-8e51cc69dc74</testCaseGuid>
+</TestCaseEntity>

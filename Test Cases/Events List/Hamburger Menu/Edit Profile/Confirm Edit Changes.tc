@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checks that the admin profile can be edited and saves changes correctly (as well as confirming that email CANNOT be edited)</description>
+   <name>Confirm Edit Changes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2d3dc1a-96ba-4820-86aa-63cef768a8cd</testCaseGuid>
+</TestCaseEntity>

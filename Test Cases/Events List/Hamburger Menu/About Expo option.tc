@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checks option About Expo goes to the correct location of external expopass.com website</description>
+   <name>About Expo option</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c78abc70-98ef-42a7-81ce-c70222b062a0</testCaseGuid>
+</TestCaseEntity>

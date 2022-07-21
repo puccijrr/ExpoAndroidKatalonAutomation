@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Utalizes search functionality on Users and ensures specific admin user is found</description>
+   <name>Admin Settings - Search Users</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5bf1b374-a6e4-4a58-ab0a-2b5a54fe9951</testCaseGuid>
+</TestCaseEntity>

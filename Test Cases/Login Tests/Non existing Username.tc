@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Attempt to login with a Username that doesn't exist</description>
+   <name>Non existing Username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>10f8a9cf-f61f-43f5-a942-ccc03bc2d376</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checks option FAQs goes to the correct location of external support.expopass.com website and then that &quot;Go to Expo Pass&quot; button in the top right goes to About Expo as well</description>
+   <name>FAQs option</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82c0728b-8726-473f-9ce9-0ba30c71fbfc</testCaseGuid>
+</TestCaseEntity>

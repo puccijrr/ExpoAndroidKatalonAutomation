@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checks option Exhibitor Access goes to the correct location and that all expected elements (including all 6 Event Code digit textboxes are found)</description>
+   <name>Exhibitor Access Option</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9aeb956a-65bd-48ff-bd82-5792088eb392</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Confirms Event Attendees button works and goes to the correct page</description>
+   <name>Event Attendees</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e81ded23-00e7-4d46-a3a4-c4f4c3767b72</testCaseGuid>
+</TestCaseEntity>

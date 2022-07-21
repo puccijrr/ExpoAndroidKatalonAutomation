@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checks Log out button correctly initiats popup and both Cancel and Log Out check buttons function as expected</description>
+   <name>Log Out</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32c2dc97-a094-422d-a109-5fa8a8c1214e</testCaseGuid>
+</TestCaseEntity>

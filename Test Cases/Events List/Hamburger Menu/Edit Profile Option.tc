@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checks edit profile button goes to correct &quot;Edit Your Profile&quot; page and that all correct fields exist and in the right  order</description>
+   <name>Edit Profile Option</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9c60317-d995-4399-a358-da4fff16ed90</testCaseGuid>
+</TestCaseEntity>

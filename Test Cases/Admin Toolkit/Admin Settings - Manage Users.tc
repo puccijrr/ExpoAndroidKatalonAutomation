@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Confirms Manage Users button works by going to the correct users page and ensuring all expected elments (including current admin user) are found</description>
+   <name>Admin Settings - Manage Users</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6b1ceef8-3e86-4163-82b4-614b79925a5a</testCaseGuid>
+</TestCaseEntity>

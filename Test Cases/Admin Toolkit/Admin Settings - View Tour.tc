@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Confirms Tour button works as expected and that you can swipe through all pages to complete the tour</description>
+   <name>Admin Settings - View Tour</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>04539101-48e5-4935-899b-86aa409c137f</testCaseGuid>
+</TestCaseEntity>

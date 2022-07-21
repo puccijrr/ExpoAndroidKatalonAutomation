@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensures Privacy Policy link goes to correct page, verifying the latest date</description>
+   <name>Privacy Policy link</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a99f6dfb-dfc0-44e0-90d8-a1f9e32e921b</testCaseGuid>
+</TestCaseEntity>

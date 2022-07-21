@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Attempt to login with a Password but an invalid type email for the Username and ensure correct exact error popup is shown</description>
+   <name>Invalid Username Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a86bb03c-4a5f-43d6-8609-5624734396f9</testCaseGuid>
+</TestCaseEntity>

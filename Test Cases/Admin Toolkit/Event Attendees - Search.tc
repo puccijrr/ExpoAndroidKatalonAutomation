@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Utalizes search functionality on Event Attendees and ensures specific attendee is found</description>
+   <name>Event Attendees - Search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8635bb2a-7ddb-4561-b2d8-8fa0cb5902f5</testCaseGuid>
+</TestCaseEntity>

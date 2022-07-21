@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checks option Terms of Use goes to correct page, verifying the latest date</description>
+   <name>Terms of Use Option</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf80e387-090b-4ebd-947b-360752a39a8c</testCaseGuid>
+</TestCaseEntity>
